@@ -25,7 +25,8 @@
           
           
  
- // while <iLoveTheBeatles>          
+ // while <iLoveTheBeatles> 
+    print [8Array]         
           
           
           
