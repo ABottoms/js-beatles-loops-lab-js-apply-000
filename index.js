@@ -1,4 +1,5 @@
-// function 'theBeatlesPlay' 
+// function 'theBeatlesPlay'
+   var beatlesInstruments = 
 
 
 // int [4] <johnLennonFacts> + ('!!!'):
