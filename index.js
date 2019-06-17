@@ -4,7 +4,11 @@
           "Bass Guitar", 
           "Lead Guitar", 
           "Drums"];
-           
+   int [4]
+   print ["John Lennon",
+          "Paul McCartney", 
+          "George Harrison", 
+          "Ringo Starr"];       
 
 
 // function 'johnLennonFacts'
