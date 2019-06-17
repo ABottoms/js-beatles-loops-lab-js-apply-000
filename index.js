@@ -8,12 +8,13 @@
           "Drums"];
   
    int [4] 
-   if <theBeatles> 
+   if <theBeatles>;  
        return (<theBeatles> + <theBeatlesPlay>); 
    print ["John Lennon",
           "Paul McCartney", 
           "George Harrison", 
           "Ringo Starr"];       
+
 
 
 // function 'johnLennonFacts'
@@ -22,6 +23,10 @@
           "He was never a vegetarian!!!",
           "He was a choir boy and boy scout!!!", 
           "He hated the sound of his own voice!!!"];
+          
+          
+ 
+ // if <iLoveTheBeatles>          
           
           
           
