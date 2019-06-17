@@ -1,6 +1,6 @@
 // function 'theBeatlesPlay' ()
-   int [4] instruments;
-   if <theBeatlesPlay>
+   int [4];
+   if <theBeatlesPlay>;
        return (<theBeatlesPlay> + instruments); 
    print ["Guitar", 
           "Bass Guitar", 
@@ -9,6 +9,7 @@
   
    int [4] 
    if <theBeatles> 
+       return (<theBeatles> + <theBeatlesPlay>); 
    print ["John Lennon",
           "Paul McCartney", 
           "George Harrison", 
