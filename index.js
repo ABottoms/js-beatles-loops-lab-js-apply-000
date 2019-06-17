@@ -6,7 +6,6 @@
           "Bass Guitar", 
           "Lead Guitar", 
           "Drums"];
-  
    int [4] 
    if <theBeatles>;  
        return (<theBeatles> + <theBeatlesPlay>); 
