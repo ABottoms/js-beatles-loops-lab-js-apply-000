@@ -1,10 +1,14 @@
-// function 'theBeatlesPlay'
-   int [4] <theBeatlesPlay>
+// function 'theBeatlesPlay' ()
+   int [4] instruments;
+   if <theBeatlesPlay>
+       return (<theBeatlesPlay> + instruments); 
    print ["Guitar", 
           "Bass Guitar", 
           "Lead Guitar", 
           "Drums"];
-   int [4]
+  
+   int [4] 
+   if <theBeatles> 
    print ["John Lennon",
           "Paul McCartney", 
           "George Harrison", 
@@ -12,7 +16,11 @@
 
 
 // function 'johnLennonFacts'
-   int [4] <johnLennonFacts>:
-   print ["He was the last Beatle to learn to drive!!!",      "He was never a vegetarian!!!",
+   int [4] <'johnLennonFacts'>;
+   print ["He was the last Beatle to learn to drive!!!",      
+          "He was never a vegetarian!!!",
           "He was a choir boy and boy scout!!!", 
           "He hated the sound of his own voice!!!"];
+          
+          
+          
