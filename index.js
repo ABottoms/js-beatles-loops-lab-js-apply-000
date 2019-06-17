@@ -2,3 +2,4 @@
 
 
 // while <johnLennonFacts>: 
+   print []
