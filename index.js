@@ -1,10 +1,10 @@
 // function 'theBeatlesPlay'
-   var beatlesInstruments = 
-   int [4] <>
+   int [4] <theBeatlesPlay>
    print ["Guitar", 
           "Bass Guitar", 
           "Lead Guitar", 
           "Drums"];
+           
 
 
 // function 'johnLennonFacts'
