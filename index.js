@@ -26,7 +26,7 @@
           
           
  
- // if <iLoveTheBeatles>          
+ // while <iLoveTheBeatles>          
           
           
           
