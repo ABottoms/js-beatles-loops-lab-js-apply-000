@@ -1,6 +1,6 @@
 // function 'theBeatlesPlay'
    var beatlesInstruments = 
-   int [4] 
+   int [4] <>
    print ["Guitar", 
           "Bass Guitar", 
           "Lead Guitar", 
